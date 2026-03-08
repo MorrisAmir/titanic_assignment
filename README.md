@@ -30,7 +30,7 @@ titanic_assignment/
 
 ### 1. Clone the repository and install dependecies
 
-git clone https://github.com/YOURUSERNAME/titanic_assignment.git
+git clone https://github.com/MorrisAmir/titanic_assignment.git
 cd titanic_assignment
 pip install -r requirements.txt
 
@@ -59,7 +59,7 @@ To identify and keep only the most useful columns
 ### DATA CLEANING DECISIONS
 
 ## Age:
--Missing values in age were filled with medina ge of 28. Median was preferred because mean deals with extremes
+-Missing values in age were filled with median age of 28. Median was preferred because mean deals with extremes
 
 ## Cabin:
 -Deck letter was extracted( getting the first character). The rest was dropped. Passengers wth no cabi were labelled unknown
