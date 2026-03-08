@@ -26,7 +26,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,S,Unknown
 26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,S,Unknown
 27,0,3,"Emir, Mr. Farred Chehab",male,28.0,0,0,2631,7.225,C,Unknown
-28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,247.66934200000009,S,C
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,249.00622000000035,S,C
 29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,28.0,0,0,330959,7.8792,Q,Unknown
 30,0,3,"Todoroff, Mr. Lalio",male,28.0,0,0,349216,7.8958,S,Unknown
 31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,C,Unknown
@@ -87,7 +87,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,S,Unknown
 87,0,3,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,S,Unknown
 88,0,3,"Slocovski, Mr. Selman Francis",male,28.0,0,0,SOTON/OQ 392086,8.05,S,Unknown
-89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,247.66934200000009,S,C
+89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,249.00622000000035,S,C
 90,0,3,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,S,Unknown
 91,0,3,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,S,Unknown
 92,0,3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,S,Unknown
@@ -257,7 +257,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,C,Unknown
 257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,28.0,0,0,PC 17585,79.2,C,Unknown
 258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,S,B
-259,1,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,247.66934200000009,C,Unknown
+259,1,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,249.00622000000035,C,Unknown
 260,1,2,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,S,Unknown
 261,0,3,"Smith, Mr. Thomas",male,28.0,0,0,384461,7.75,Q,Unknown
 262,1,3,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,S,Unknown
@@ -310,7 +310,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 309,0,2,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,C,Unknown
 310,1,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,C,E
 311,1,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C,C
-312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,247.66934200000009,C,B
+312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,249.00622000000035,C,B
 313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,S,Unknown
 314,0,3,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,S,Unknown
 315,0,2,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,S,Unknown
@@ -340,7 +340,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 339,1,3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,S,Unknown
 340,0,1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,S,T
 341,1,2,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,S,F
-342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,247.66934200000009,S,C
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,249.00622000000035,S,C
 343,0,2,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,S,Unknown
 344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,S,Unknown
 345,0,2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,S,Unknown
@@ -437,7 +437,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 436,1,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,S,B
 437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,S,Unknown
 438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,S,Unknown
-439,0,1,"Fortune, Mr. Mark",male,64.0,1,4,19950,247.66934200000009,S,C
+439,0,1,"Fortune, Mr. Mark",male,64.0,1,4,19950,249.00622000000035,S,C
 440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,S,Unknown
 441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,S,Unknown
 442,0,3,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,S,Unknown
@@ -678,7 +678,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 677,0,3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,S,Unknown
 678,1,3,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,S,Unknown
 679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,S,Unknown
-680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,247.66934200000009,C,B
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,249.00622000000035,C,B
 681,0,3,"Peters, Miss. Katie",female,28.0,0,0,330935,8.1375,Q,Unknown
 682,1,1,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,C,D
 683,0,3,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,S,Unknown
@@ -736,12 +736,12 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked,Deck
 735,0,2,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,S,Unknown
 736,0,3,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,S,Unknown
 737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,S,Unknown
-738,1,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,247.66934200000009,C,B
+738,1,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,249.00622000000035,C,B
 739,0,3,"Ivanoff, Mr. Kanio",male,28.0,0,0,349201,7.8958,S,Unknown
 740,0,3,"Nankoff, Mr. Minko",male,28.0,0,0,349218,7.8958,S,Unknown
 741,1,1,"Hawksford, Mr. Walter James",male,28.0,0,0,16988,30.0,S,D
 742,0,1,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,S,C
-743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,247.66934200000009,C,B
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,249.00622000000035,C,B
 744,0,3,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,S,Unknown
 745,1,3,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,S,Unknown
 746,0,1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,S,B
